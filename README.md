@@ -5,7 +5,7 @@ Proyecto creado en Tecnolochicas Pro simulando la pagina principal del navegador
 ******
 Poniendo en practica lo aprendido durante el bootcamp logre realizar un clon del explorador.
 
-* Puedes visitarlo aqui.
+* Puedes visitarlo aqui. [Clon de google](https://ana-rangel.github.io/Clone-de-google/)
 
 ## Contenido del proyecto
 
@@ -23,4 +23,7 @@ Incluye Hipervinculos al final de la pagina
 
 ## Vista previa 
 
-![Clon]
+![Clon](/imagenes/clon.png)
+
+
+Hecha con amor y dedicación por Ana Rangel 
